@@ -1,5 +1,5 @@
 ﻿
-namespace LuxuryResume.Domain.Validation
+namespace FilmAdvice.Domain.Validation
 {
     public class ValidationMessage
     {

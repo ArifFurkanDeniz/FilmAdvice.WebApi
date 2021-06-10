@@ -1,6 +1,6 @@
 ﻿using FilmAdvice.Domain.Api;
 using FluentValidation;
-using LuxuryResume.Domain.Validation;
+using FilmAdvice.Domain.Validation;
 using System;
 using System.Collections.Generic;
 using System.Text;

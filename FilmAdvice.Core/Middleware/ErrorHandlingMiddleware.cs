@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Serilog;
 
-namespace LuxuryResume.Core.Middleware
+namespace FilmAdvice.Core.Middleware
 {
     public class ErrorHandlingMiddleware
     {

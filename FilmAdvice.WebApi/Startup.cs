@@ -1,8 +1,8 @@
 using FilmAdvice.WebApi.Configuration;
 using FilmAdvice.Core.Attributes;
 using FluentValidation.AspNetCore;
-using LuxuryResume.Api.Configuration;
-using LuxuryResume.Core.Middleware;
+using FilmAdvice.Api.Configuration;
+using FilmAdvice.Core.Middleware;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;

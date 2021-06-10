@@ -1,6 +1,5 @@
 ﻿using FilmAdvice.Batch.Configuration;
 using FilmAdvice.Batch.Jobs;
-using LuxuryResume.Batch.Configuration;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Quartz;

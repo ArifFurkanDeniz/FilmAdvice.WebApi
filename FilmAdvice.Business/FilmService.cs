@@ -8,7 +8,6 @@ using FilmAdvice.Entities.Model;
 using FilmAdvice.Repository.Extensions;
 using FilmAdvice.Repository.Generic;
 using FilmAdvice.Repository.UnitOfWork;
-using LuxuryResume.Business;
 using Microsoft.Extensions.Configuration;
 using Serilog;
 using System;

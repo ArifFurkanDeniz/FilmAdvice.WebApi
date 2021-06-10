@@ -5,7 +5,7 @@ using FilmAdvice.Domain.Common;
 using FilmAdvice.Repository.Generic;
 using FilmAdvice.Repository.UnitOfWork;
 
-namespace LuxuryResume.Business
+namespace FilmAdvice.Business
 {
     public abstract class BaseService<T>   where T : IEntity 
     {

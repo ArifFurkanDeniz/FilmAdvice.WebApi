@@ -1,6 +1,6 @@
 ﻿using FluentValidation;
 using FilmAdvice.Domain.Api;
-using LuxuryResume.Domain.Validation;
+using FilmAdvice.Domain.Validation;
 
 namespace FilmAdvice.Domain.Validation
 {

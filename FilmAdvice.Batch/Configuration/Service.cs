@@ -1,7 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
-//using LuxuryResume.Business;
-//using LuxuryResume.Business.Interfaces;
 using FilmAdvice.Core.Security;
 using FilmAdvice.Repository.Generic;
 using FilmAdvice.Repository.UnitOfWork;
@@ -10,7 +8,7 @@ using FilmAdvice.Business;
 using FilmAdvice.ApiClient.Interfaces;
 using FilmAdvice.ApiClient;
 
-namespace LuxuryResume.Batch.Configuration
+namespace FilmAdvice.Batch.Configuration
 {
     public static class Service
     {
