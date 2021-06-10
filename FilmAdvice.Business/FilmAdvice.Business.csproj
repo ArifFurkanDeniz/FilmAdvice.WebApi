@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FilmAdvice.ApiClient\FilmAdvice.ApiClient.csproj" />
+    <ProjectReference Include="..\FilmAdvice.Core\FilmAdvice.Core.csproj" />
+    <ProjectReference Include="..\FilmAdvice.Domain\FilmAdvice.Domain.csproj" />
+    <ProjectReference Include="..\FilmAdvice.Entities\FilmAdvice.Entities.csproj" />
+    <ProjectReference Include="..\FilmAdvice.Repository\FilmAdvice.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
